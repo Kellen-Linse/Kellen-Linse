@@ -12,4 +12,4 @@
 
 ---
 
-You can find me on [![LinkedIn][1.1]][1] https://www.linkedin.com/in/Kellen-Linse/
+You can find me on [![LinkedIn](https://www.linkedin.com/in/Kellen-Linse/)
