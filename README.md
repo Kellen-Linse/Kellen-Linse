@@ -66,7 +66,7 @@ class About extends Me {
 
 </a>
 </div> 
-
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <div>
   <p align="center" You can find me on </ p> 
