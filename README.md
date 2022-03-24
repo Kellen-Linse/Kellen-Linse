@@ -61,7 +61,7 @@ class About extends Me {
 
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kellen-Linse&show_icons=true&theme=radical&count_private=true" />
-
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </a>
