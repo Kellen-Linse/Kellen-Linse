@@ -35,8 +35,8 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/Kellen-Linse">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   -->
 
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kellen-Linse&show_icons=true&theme=radical&count_private=true" />
@@ -46,7 +46,7 @@ class About extends Me {
 </a>
 </div> 
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/Kellen-Linse/)
+You can find me on  ![[LinkedIn](https://www.linkedin.com/in/Kellen-Linse/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
