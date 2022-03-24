@@ -48,24 +48,17 @@ class About extends Me {
 }
 ```
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kellen-Linse&theme=blue-green)]
-
 ---
 
 <div align="center" >
-<a  href="https://github.com/Kellen-Linse">
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kellen-Linse&show_icons=true&theme=radical&count_private=true" />
-
-</a>
+  <a  href="https://github.com/Kellen-Linse">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kellen-Linse&theme=blue-green" />
+  </a>
 </div> 
 
 ---
 <div>
-  <p align="center" You can find me on </ p> 
+  <h3 align="center" You can find me on </ h3> 
   <a href="https://www.linkedin.com/in/Kellen-Linse/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
