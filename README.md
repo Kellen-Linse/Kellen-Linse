@@ -39,7 +39,8 @@ class About extends Me {
   
 
 <img align="center" src="https://raw.githubusercontent.com/Kellen-Linse/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-![Kellen's Stats](https://github-readme-stats.vercel.app/api?username=Kellen-Linse&show_icons=true&theme=radical&count_private=true)
+  
+![Kellen's Stats](https://github-readme-stats.vercel.app/api?username=Kellen-Linse&show_icons=true&theme=dark&count_private=true)
   
 
 </a>
