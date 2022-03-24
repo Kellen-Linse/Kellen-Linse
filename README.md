@@ -55,7 +55,7 @@ class About extends Me {
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kellen-Linse&theme=blue-green" />
   </a>
 </div> 
-
+<br>
 <div align="center" >
   <a  href="https://github.com/Kellen-Linse">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kellen-Linse&theme=blue-green" />
