@@ -48,9 +48,7 @@ class About extends Me {
 }
 ```
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&theme=blue-green)
-
-
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kellen-Linse&theme=blue-green)]
 
 ---
 
@@ -60,14 +58,11 @@ class About extends Me {
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    -->
 
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kellen-Linse&show_icons=true&theme=radical&count_private=true" />
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </a>
 </div> 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 <div>
   <p align="center" You can find me on </ p> 
