@@ -35,7 +35,7 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/Kellen-Linse">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&theme=tokyonight&layout=compact&langs_count=8)
 
 <!-- <img align="center" src="https://raw.githubusercontent.com/Kellen-Linse/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > -->
   
