@@ -48,6 +48,7 @@ class About extends Me {
 }
 ```
 
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&theme=blue-green)
 
 
 
