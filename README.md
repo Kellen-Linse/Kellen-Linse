@@ -1,14 +1,13 @@
-![](https://img.shields.io/badge/Developer-Node-informational?style=Plastic&logo=node.js&logoColor=68a063&color=68a063) 
-![](https://img.shields.io/badge/Developer-React-informational?style=Plastic&logo=react&logoColor=00ffff&color=00ffff)
-![](https://img.shields.io/badge/Developer-JavaScript-informational?style=Plastic&logo=javascript&logoColor=f0db4f&color=f0db4f)
-![](https://img.shields.io/badge/Developer-HTML-informational?style=Plastic&logo=html5&logoColor=ff3333&color=ff3333)
-![](https://img.shields.io/badge/Developer-CSS-informational?style=Plastic&logo=css-wizardry&logoColor=66d3fa&color=66d3fa)
+![](https://img.shields.io/badge/Node.js-43853D?style=Plastic&logo=node.js&logoColor=white) 
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=Plastic&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=Plastic&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=Plastic&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=Plastic&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=Plastic&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=Plastic&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=Plastice&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=Plastic&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=Plastic)
+![](https://img.shields.io/badge/Express.js-404D59?style=Plastic&logo=express)
 ![](https://img.shields.io/badge/React-20232A?style=Plastic&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/React_Native-20232A?style=Plastic&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=Plastic&logo=bootstrap&logoColor=white)
@@ -63,9 +62,10 @@ class About extends Me {
 </div> 
 
 ---
-<div>
-  <a align="center" href="https://www.linkedin.com/in/Kellen-Linse/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/Kellen-Linse/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=white" />
   </a>  
 </div>  
 
