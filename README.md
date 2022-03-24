@@ -29,6 +29,11 @@
 <div align="center">
 <h1> Kellen Linse </h1>
 <h2> Full Stack Web and IoT Developer </h2>
+
+<a href="https://www.linkedin.com/in/Kellen-Linse/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=white" />
+</a>  
+
 <div>
 
 
@@ -60,14 +65,6 @@ class About extends Me {
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kellen-Linse&theme=blue-green" />
   </a>
 </div> 
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/Kellen-Linse/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=white" />
-  </a>  
-</div>  
 
 ---
 
