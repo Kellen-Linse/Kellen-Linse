@@ -38,9 +38,11 @@ class About extends Me {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse)](https://github.com/anuraghazra/github-readme-stats)
   
 
-<img align="center" src="https://raw.githubusercontent.com/Kellen-Linse/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<!-- <img align="center" src="https://raw.githubusercontent.com/Kellen-Linse/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > -->
   
-![Kellen's Stats](https://github-readme-stats.vercel.app/api?username=Kellen-Linse&show_icons=true&theme=dark&count_private=true)
+![Kellen's Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
+![Kellen's Stats](https://github-readme-stats.vercel.app/api?username=Kellen-Linse&show_icons=true&theme=radical&count_private=true)
   
 
 </a>
