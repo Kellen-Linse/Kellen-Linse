@@ -28,7 +28,7 @@
 
 <div align="center">
 <h1> Kellen Linse </h1>
-<h2> Full Stack and IoT Developer </h2>
+<h2> Full Stack Web and IoT Developer </h2>
 <div>
 
 
