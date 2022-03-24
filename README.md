@@ -22,7 +22,14 @@
 <img src="https://raw.githubusercontent.com/Kellen-Linse/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
+
+<details>
+  <summary>More stats</summary>
   
-</div>  
+<img align="center" src="https://raw.githubusercontent.com/Kellen-Linse/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+
+</div> 
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/Kellen-Linse/)
