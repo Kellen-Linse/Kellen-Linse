@@ -26,13 +26,13 @@
 
 ---
 
-# Kellen Linse
+<div align="center">
+<h1> Kellen Linse </h1>
+<h2> Full Stack and IoT Developer </h2>
+<div>
 
-## Full Stack and IoT Developer
 
-
-
-```js
+<!-- ```js
 // tools_I_use organized
 //Edit This
 class About extends Me { 
@@ -45,7 +45,7 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
-```
+``` -->
 
 ---
 
