@@ -46,7 +46,16 @@ class About extends Me {
 </a>
 </div> 
 
-You can find me on   [![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kellen-Linse/)
+---
+<div>
+  <p align="center" You can find me on </ p> 
+  <a href="https://www.linkedin.com/in/Kellen-Linse/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+
+ </div>
+  
 
 ---
 
