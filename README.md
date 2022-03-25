@@ -70,11 +70,6 @@ class About extends Me {
   </a>
 </div> 
   <br>
-<div align="center" >
-  <a  href="https://github.com/Kellen-Linse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&langs_count=8" />
-  </a>
-</div> 
 
 ---
 
