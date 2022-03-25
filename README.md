@@ -73,3 +73,4 @@ class About extends Me {
 ---
 
 
+![Jokes Card](https://readme-jokes.vercel.app/api/?bgColor=black&borderColor=white&qColor=%230CF574&aColor=%232F96C0)
