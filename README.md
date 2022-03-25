@@ -69,6 +69,12 @@ class About extends Me {
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kellen-Linse&theme=blue-green" />
   </a>
 </div> 
+  <br>
+<div align="center" >
+  <a  href="https://github.com/Kellen-Linse">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse&langs_count=8" />
+  </a>
+</div> 
 
 ---
 
