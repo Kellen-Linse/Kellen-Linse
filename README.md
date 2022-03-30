@@ -33,7 +33,7 @@
 <div align="center">
 <h1> Kellen Linse </h1>
 <h2> Full Stack Web and IoT Developer </h2>
-
+<h3> Find Me On LinkedIn! </h3>
 <a href="https://www.linkedin.com/in/Kellen-Linse/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=white" />
 </a>  
