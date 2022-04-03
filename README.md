@@ -56,36 +56,6 @@ class About extends Me {
 }
 ``` -->
   
-  <!-- ```js
-// tools_I_use organized
-//Edit This
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "C++", "C", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-``` -->
-
-  
-  <!-- ```js
-// tools_I_use organized
-//Edit This
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "C++", "C", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-``` -->
 
 
 ---
