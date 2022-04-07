@@ -74,6 +74,10 @@ class About extends Me {
   <br>
 
 ---
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellen-Linse)](https://github.com/anuraghazra/github-readme-stats)
+  
+---
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/?bgColor=black&borderColor=white&qColor=%230CF574&aColor=%232F96C0)
