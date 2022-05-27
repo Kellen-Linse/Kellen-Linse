@@ -53,7 +53,7 @@ class About extends Me {
     "Database" : { "SQL", "NoSQL" },
     "Editors" : { "Vscode", "Platformio" },
     "Technologies" : { "React", "React Native", "Ionic", "Node", "Express", "Flutter", "Arduino" },
-    "OtherTools" : { "Git", "TouchDesigner", "Cura", "Gimp"};
+    "OtherTools" : { "Git", "TouchDesigner", "Cura", "Gimp", "Jest", "AWS"};
   };
 }
   
