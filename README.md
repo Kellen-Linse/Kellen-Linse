@@ -33,6 +33,7 @@
 <div align="center">
 <h1> Kellen Linse </h1>
 <h2> Full Stack Web and IoT Developer </h2>
+<h2> Currently Open for New Job Opportunities! </h2>
 <h3> Find Me On LinkedIn! </h3>
 <a href="https://www.linkedin.com/in/Kellen-Linse/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=white" />
@@ -41,20 +42,20 @@
 <div>
 
 
-<!-- ```js
-// tools_I_use organized
-//Edit This
+```js
+// tools_I_use 
+
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Dart", "C++", "C", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "OtherLanguages" : { "HTML", "CSS", "JSON", "Markdown" },
+    "Database" : { "SQL", "NoSQL" },
+    "Editors" : { "Vscode", "Platformio" },
+    "Technologies" : { "React", "React Native", "Ionic", "Node", "Express", "Flutter", "Arduino" },
+    "OtherTools" : { "Git", "TouchDesigner", "Cura", "Gimp"};
   };
 }
-``` -->
+``` 
   
 
 
@@ -74,6 +75,8 @@ class About extends Me {
   <br>
   
 ---
-
+<div align="center" >
+  <h3> (Occasionally) Funny Code Related Joke:  </h3>
+</div> 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/?bgColor=black&borderColor=white&qColor=%230CF574&aColor=%232F96C0)
