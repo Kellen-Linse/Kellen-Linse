@@ -79,6 +79,7 @@ class About extends Me {
 ---
 <div align="center" >
   <h3> (Occasionally) Funny Code Related Joke:  </h3>
-</div> 
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/?bgColor=black&borderColor=white&qColor=%230CF574&aColor=%232F96C0)
+</div> 
