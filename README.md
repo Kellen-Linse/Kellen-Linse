@@ -46,15 +46,13 @@
 ```js
 // tools_I_use 
 
-class About extends Me { 
-  const myTools = {  
+class About extends Me {  
     "ProgramingLanguages" : { "Dart", "C++", "C", "Javascript" },
     "OtherLanguages" : { "HTML", "CSS", "JSON", "Markdown" },
     "Database" : { "SQL", "NoSQL" },
     "Editors" : { "Vscode", "Platformio" },
     "Technologies" : { "React", "React Native", "Ionic", "Node", "Express", "Flutter", "Arduino" },
     "OtherTools" : { "Git", "TouchDesigner", "Cura", "Gimp", "Jest", "AWS"};
-  };
 }
   
 ``` 
